@@ -12,7 +12,7 @@ check in my resource and reference to find other
 
 19/10/23 my first domain (kingashari) is now available in the browser (private only) domain already 192.168.137.129 ✔️
 
-19/10/23 ssh is not available because having problems ❌
+19/10/23 ssh is available probeloms allowed disolved ✔️
 # Manage your server
 	sudo systemctl start apache2
 	sudo systemctl stop apache2
