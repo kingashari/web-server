@@ -10,6 +10,8 @@ check in my resource and reference to find other
 
 19/10/23 web server sucsess connection to apache ubuntu
 
+19/10/23 my first domain (kingashari) is now available in the browser
+
 # manage your server
 	sudo systemctl start apache2
 	sudo systemctl stop apache2
