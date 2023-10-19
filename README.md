@@ -12,7 +12,7 @@ check in my resource and reference to find other
 
 19/10/23 my domain (kingashari) is now available in the browser (private only) domain IP 192.168.137.129 ✔️
 
-19/10/23 ssh is available problems allowed disolved ✔️
+19/10/23 ssh is available problems disolved ✔️
 # Manage your server
 	sudo systemctl start apache2
 	sudo systemctl stop apache2
