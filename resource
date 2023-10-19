@@ -4,3 +4,5 @@ vm ware https://www.vmware.com/products/workstation-player/workstation-player-ev
 virtualbox https://www.virtualbox.org/ (no need keygen)
 browser chrome, firefox, edge ,and another
 internet connection
+ssh (openssh)
+mysql
