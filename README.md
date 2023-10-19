@@ -1,7 +1,7 @@
 # build web-server
 reqiured
 
-web-server with linux ubuntu 22.04.03 LTS https://ubuntu.com/download/server
+web-server with linux ubuntu 22.04.03 LTS Ubuntu
 	
 # releases and updates
 17/10/23 first install ubuntu server
