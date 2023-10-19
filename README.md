@@ -1,9 +1,9 @@
-# Project web-server
+# project web-server
 web-server with linx ubuntu 22.04.03 LTS 
 
 check in my resource and reference to find other
 	
-# Releases and updates
+# progress and updates
 17/10/23 first install ubuntu server✔️
 
 18/10/23 trying install web server ✔️
@@ -14,8 +14,12 @@ check in my resource and reference to find other
 
 19/10/23 ssh is available problems disolved ✔️
 
-19/10/23 Nginx all ready to install ✔️
-# Manage your server
+19/10/23 beta web available ✔️ 
+
+19/10/23 Nginx failed to install because crash with apache2 ❌ 
+
+19/10/23 MySQL done install and already to running ✔️
+# manage your server
 	sudo systemctl start apache2
 	sudo systemctl stop apache2
  	sudo systemctl restart apache2
