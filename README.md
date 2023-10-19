@@ -12,6 +12,7 @@ check in my resource and reference to find other
 
 19/10/23 my first domain (kingashari) is now available in the browser (private only)
 
+19/10/23 domain 192.168.137.129
 # Manage your server
 	sudo systemctl start apache2
 	sudo systemctl stop apache2
