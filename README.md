@@ -1,7 +1,7 @@
 # build web-server
 reqiured
 
-web-server with linux ubuntu 22.04.03 LTS
+web-server with linux ubuntu 22.04.03 LTS resource
 
 
 	
