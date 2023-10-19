@@ -23,5 +23,7 @@ check in my resource and reference to find other
 	sudo systemctl start apache2
 	sudo systemctl stop apache2
  	sudo systemctl restart apache2
+  	mysql -u root -p
+
   
  	
