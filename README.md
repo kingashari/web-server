@@ -1,5 +1,5 @@
 # Project web-server
-web-server with linux ubuntu 22.04.03 LTS Ubuntu
+web-server with linux ubuntu 22.04.03 LTS 
 
 check in my resource and reference to find other
 	
