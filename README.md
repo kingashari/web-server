@@ -20,6 +20,8 @@ check in my resource and reference to find other
 
 21/10/23 MySQL done install and already to running ✔️ 
 
+21/10/23 bind9 ready to install and running 
+
 --/10/23 SSL done to and already to running ❌ 
 # manage your server
 	sudo systemctl start apache2
