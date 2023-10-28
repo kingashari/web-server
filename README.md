@@ -3,7 +3,7 @@ web-server with linx ubuntu 22.04.03 LTS
 
 check in my resource and reference to find other
 	
-# progress and
+# Progress WEB SERVER
 
 SSH sudah terinstall
 
