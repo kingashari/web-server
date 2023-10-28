@@ -5,9 +5,9 @@ check in my resource and reference to find other
 	
 # progress and updates
 
-19/10/23 Apache2 sudah terinstall
+19/10/23 SSH sudah terinstall
 
-21/10/23 ssh sudah terinstall
+21/10/23 Apache2 sudah terinstall
 
 21/10/23 MySQL sudah terinstall
 
