@@ -9,9 +9,9 @@ check in my resource and reference to find other
 
 21/10/23 Apache2 sudah terinstall
 
-21/10/23 MySQL sudah terinstall
+21/10/23 MySQL atau Mariadb
 
-21/10/23 bind9 ready sudah terinstall akan tetapi mengalami error pada apache2 nya
+21/10/23 bind9 belum
 
 --/10/23 SSL belum terinstall 
 # manage your server
