@@ -9,7 +9,7 @@ SSH sudah terinstall
 
 Apache2 sudah terinstall
 
-MySQL atau Mariadb belum terinstall
+Mariadb sudah terinstall
 
 DNS bind9 belum tersintall
 
