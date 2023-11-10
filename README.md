@@ -5,7 +5,7 @@ check in my resource and reference to find other
 
 This web server was created to display Android and iOS tutorials
 	
-# Update and Progress WEB SERVER
+# update and progress web server 
 
 SSH is automatically installed when installing Ubuntu Linux 
 
