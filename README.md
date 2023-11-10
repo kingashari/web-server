@@ -2,8 +2,10 @@
 web-server with linx ubuntu 22.04.03 LTS 
 
 check in my resource and reference to find other
+
+This web server was created to display Android and iOS tutorials
 	
-# Progress WEB SERVER
+# Update and Progress WEB SERVER
 
 SSH is automatically installed when installing Ubuntu Linux 
 
