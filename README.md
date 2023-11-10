@@ -5,15 +5,14 @@ check in my resource and reference to find other
 	
 # Progress WEB SERVER
 
-SSH sudah terinstall
+SSH is automatically installed when installing Ubuntu Linux 
 
-Apache2 sudah terinstall
+Apache2 is installed and running 
 
-Mariadb sudah terinstall
+MySql has been installed
 
-DNS bind9 belum tersintall
+PHP has been installed
 
-PHP
 # manage your server
 	sudo systemctl start apache2
 	sudo systemctl stop apache2
