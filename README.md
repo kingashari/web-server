@@ -6,6 +6,7 @@ check in my resource and reference to find other
 This web server was created to display smartphone news and mini tutorials
 	
 # update and progress web server 
+winscp from windows to linux apache
 
 SSH is automatically installed when installing Ubuntu Linux 
 
