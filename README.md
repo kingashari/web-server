@@ -3,7 +3,7 @@ web-server with linx ubuntu 22.04.03 LTS
 
 check in my resource and reference to find other
 
-This web server was created to display Android and iOS tutorials
+This web server was created to display smartphone news and mini tutorials
 	
 # update and progress web server 
 
@@ -14,6 +14,10 @@ Apache2 is installed and running
 MySql has been installed
 
 PHP has been installed
+
+Virtual Host hass been installed
+
+Bind9 has been instlled
 
 # manage your server
 	sudo systemctl start apache2
